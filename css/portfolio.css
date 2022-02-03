@@ -1,0 +1,30 @@
+/* Our projects */
+.filter .button {
+  font-weight: 500;
+  line-height: 1.63;
+  text-align: center;
+  color: var(--title-text-color);
+
+  background-color: var(--secondary-bcg-color);
+}
+
+.filter .button:hover {
+  color: var(--hero-text);
+  background-color: var(--accent-color);
+}
+
+.projects .link {
+  color: inherit;
+}
+
+.projects .title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: var(--title-text-color);
+}
+
+.projects .text {
+  line-height: 1.88;
+}
